@@ -1,3 +1,21 @@
 body{
-    background-color: white;
+    background-color:whitesmoke;
+    text-align: center;
 }
+
+h1{
+    font-family: 楷体;
+}
+
+.info{
+    font-family: 楷体;
+}
+
+.info_1{
+    font-size: 30px;
+}
+
+.info_2 , .info_3{
+    font-size: 20px;
+}
+
